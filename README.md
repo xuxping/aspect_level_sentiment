@@ -39,7 +39,7 @@ options
 https://s3-us-west-2.amazonaws.com/allennlp/models/elmo/2x4096_512_2048cnn_2xhighway_5.5B/elmo_2x4096_512_2048cnn_2xhighway_5.5B_options.json  
 
 4. bert  
-https://github.com/huggingface/pytorch-pretrained-BERT
+https://github.com/huggingface/pytorch-pretrained-BERT   
 bert-base-uncased: 12-layer, 768-hidden, 12-heads, 110M parameters
 
 
