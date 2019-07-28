@@ -1,0 +1,8 @@
+pandas
+numpy
+tqdm
+tensorboardX
+tensorflow
+pytorch
+pytorch-pretrained-bert
+alennlp
